@@ -1,0 +1,82 @@
+.e38_3 {
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.20_35 {
+	overflow:hidden;
+}
+.e20_35 {
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e20_4 {
+	width:1440px;
+	height:1024px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(../img/fotooboi_mstiteli_foto_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_40 {
+	background-color:rgba(183.81250709295273, 1.5317738056182861, 1.5317738056182861, 1);
+	width:356px;
+	height:108px;
+	position:absolute;
+}
+.41_40 {
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.ei41_40_20_14 {
+	color:rgba(255, 255, 255, 1);
+	width:346px;
+	height:108px;
+	position:absolute;
+	left:36px;
+	top:36px;
+	font-family:Courier Prime;
+	text-align:center;
+	font-size:96px;
+	letter-spacing:0;
+}
+.i41_39_20_28 {
+	overflow:hidden;
+}
+.ei41_39_20_28 {
+	width:220px;
+	height:162px;
+	position:absolute;
+}
+.i41_39_20_18 {
+	overflow:hidden;
+}
+.ei41_39_20_18 {
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:220px;
+	height:162px;
+	position:absolute;
+	left: 40%;
+    right: 43.96%;
+    top: 17.38%;
+    bottom: 66.8%;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+}
+.ei41_39_20_27 {
+	width:463px;
+	height:292px;
+	position:absolute;
+	left:-110px;
+	top:0px;
+	background-image:url(../img/e20c260231bc119468aa13ef490d8de8_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
